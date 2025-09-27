@@ -1,1 +1,1 @@
-## my keyboard configuration
+## my keyboard configuration for dactyl manuform keyboard
